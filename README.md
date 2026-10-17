@@ -1,2 +1,2 @@
-# la-mini-entreprise
+print-and-paint.
 Vente objet 
